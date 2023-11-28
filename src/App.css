@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.navbar{
+  display: flex;
+}
+
+.ul{
+  display: flex;
+
+}
+
+li{
+  list-style-type: none;
+  margin-right: 10px;
+  color: white;
+}
+
+a{
+ text-decoration: none;
+}
+

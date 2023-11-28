@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "anurag singh",
+      "username": "anurag",
+      "email": "anurag@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "anurag singi",
+      "username": "anurag",
+      "email": "hello jn",
+      "id": 4
+    },
+    {
+      "name": "Ashutosh Kumar Singh",
+      "username": "ashu",
+      "email": "restorecodingwithanurag@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "id": 6
+    }
+  ]
+}
